@@ -1,5 +1,11 @@
 # Clean VueJS Projet
 
+
+## Clone Repo
+```
+git clone https://github.com/Etudik/Template-VueJS-Etudik.git
+```
+
 ## Project setup
 ```
 npm install
