@@ -1,4 +1,4 @@
-# clean-vuejs-bastien
+# Clean VueJS Projet
 
 ## Project setup
 ```
