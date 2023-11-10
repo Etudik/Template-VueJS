@@ -3,7 +3,7 @@
 
 ## Clone Repo
 ```
-git clone https://github.com/Etudik/Template-VueJS-Etudik.git
+git clone https://github.com/Etudik/Template-VueJS.git
 ```
 
 ## Project setup
