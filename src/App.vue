@@ -6,6 +6,7 @@
 </script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&family=Nabla&family=Poppins:wght@300&family=Rubik+Scribble&display=swap');
+
 *{
   box-sizing: border-box;
   margin: 0;
